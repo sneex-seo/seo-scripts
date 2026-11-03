@@ -1,0 +1,13 @@
+# Ключі та доступи
+.env
+credentials.json
+credentials_for_GSC.json
+client_secrets.json
+service_account.json
+yourfilecredentials.json
+
+# Python і Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+Sie müssen installieren:
+Python von https://www.python.org/
+Als nächstes installieren Sie mehrere Bibliotheken über die Befehlszeile. Führen Sie dazu die Befehlszeile aus und schreiben Sie:
+pip installieren google.cloud;
+pip installieren google.translate;
+Cloud-API aktivieren. Verknüpfung
+Und bereiten Sie eine txt-Datei mit Text für die Übersetzung vor.
